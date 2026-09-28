@@ -1,0 +1,37 @@
+[
+  {
+    "order_id": "ZIA-20260928230417",
+    "created_at": "2026-09-28T23:04:17",
+    "customer": {
+      "name": "SHAIK HUSSEN BASHA",
+      "phone": "9133967682",
+      "address": "ambavaram",
+      "city": "kadapa",
+      "state": "andhra pradesh",
+      "pincode": "516193"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Coffee Rice Soap",
+        "price": 120,
+        "description": "Handmade soap with a coffee and rice inspired natural-care theme.",
+        "emoji": "☕",
+        "qty": 1,
+        "subtotal": 120
+      },
+      {
+        "id": 2,
+        "name": "Neem Soap",
+        "price": 120,
+        "description": "Handmade neem soap for a fresh, clean bathing routine.",
+        "emoji": "🌿",
+        "qty": 1,
+        "subtotal": 120
+      }
+    ],
+    "total": 240,
+    "payment": "Cash on Delivery",
+    "status": "Pending"
+  }
+]
